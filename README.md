@@ -7,6 +7,10 @@ The GitHub repository can be found at https://github.com/StanOp09/Project1_refac
 
 The live website is hosted at https://stanop09.github.io/Project1_refactoring/.
 
+## Appearance and Web Functionality
+![image](https://github.com/StanOp09/Project1_refactoring/assets/86489635/467b6e30-96d3-450f-95b0-6caea96fd674)
+
+
 ## Credits
 Sean Roshan for starter code
 
